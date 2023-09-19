@@ -1,6 +1,6 @@
 # BCDC Profile  Submission -  
 
-Welcome to the Bharath Cycle Design Challenge (BCDC) project submission  . Please follow the steps below to submit your profile  files.
+Welcome to the Bharath Cycle Design Challenge (BCDC) **project profile** submission  . Please follow the steps below to submit your profile  files.
 
 ## Submission Steps
 
