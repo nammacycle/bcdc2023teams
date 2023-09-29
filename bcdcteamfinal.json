@@ -1,0 +1,352 @@
+{
+  "WinningTeam": [
+    {
+      "TeamName": "Anirudh CR",
+      "CollegeName": "School of Engineering, Cochin University of Science and Technology",
+      "CollegeLocation": {
+        "Latitude": 12.9716,
+        "Longitude": 77.5946
+      },
+      "TeamMembers": [
+        {
+          "ProfileName": "Anirudh CR"
+        },
+        {
+          "ProfileName": "Nihal Ahmed"
+        },
+        {
+          "ProfileName": "Aadith M V"
+        },
+        {
+          "ProfileName": "Arjun K S"
+        }
+      ],
+      "ProjectWorkStages": [],
+      "StageImages": {},
+      "FinalProductVideo": "",
+      "ChallengesFacedInBCDC": [],
+      "CategoryOfDesign": "Cargo Bike"
+    },
+    {
+      "TeamName": "Vishwajeet Ramkumar",
+      "CollegeName": "Kalasalingam Academy of Research and Education",
+      "CollegeLocation": {
+        "Latitude": 12.9716,
+        "Longitude": 77.5946
+      },
+      "TeamMembers": [
+        {
+          "ProfileName": "Vishwajeet"
+        },
+        {
+          "ProfileName": "Danush"
+        },
+        {
+          "ProfileName": "Santhosh"
+        },
+        {
+          "ProfileName": "Gayatri"
+        },
+        {
+          "ProfileName": "Guhanesh"
+        }
+      ],
+      "ProjectWorkStages": [],
+      "StageImages": {},
+      "FinalProductVideo": "",
+      "ChallengesFacedInBCDC": [],
+      "CategoryOfDesign": "EV Commute Bike"
+    },
+    {
+      "TeamName": "Sahaj Patel",
+      "CollegeName": "Government Engineering College, Patan",
+      "CollegeLocation": {
+        "Latitude": 12.9716,
+        "Longitude": 77.5946
+      },
+      "TeamMembers": [
+        {
+          "ProfileName": "Samarthsinh Makwana"
+        },
+        {
+          "ProfileName": "Dev Raval"
+        }
+      ],
+      "ProjectWorkStages": [],
+      "StageImages": {},
+      "FinalProductVideo": "",
+      "ChallengesFacedInBCDC": [],
+      "CategoryOfDesign": "EV Cargo Bike"
+    },
+    {
+      "TeamName": "Stephen Jebaraj. M",
+      "CollegeName": "National engineering college kovilpatti",
+      "CollegeLocation": {
+        "Latitude": 12.9716,
+        "Longitude": 77.5946
+      },
+      "TeamMembers": [
+        {
+          "ProfileName": "Stephen Jebaraj.M"
+        },
+        {
+          "ProfileName": "Balaganesh.P"
+        },
+        {
+          "ProfileName": "Seenivasan.R"
+        },
+        {
+          "ProfileName": "Mathavan.B"
+        }
+      ],
+      "ProjectWorkStages": [],
+      "StageImages": {},
+      "FinalProductVideo": "",
+      "ChallengesFacedInBCDC": [],
+      "CategoryOfDesign": "Commute Bike"
+    },
+    {
+      "TeamName": "NAGULRAJ V",
+      "CollegeName": "KONGU ENGINEERING COLLEGE, PERUNDURAI",
+      "CollegeLocation": {
+        "Latitude": 12.9716,
+        "Longitude": 77.5946
+      },
+      "TeamMembers": [
+        {
+          "ProfileName": "Nagulraj V"
+        },
+        {
+          "ProfileName": "Joshua P S"
+        },
+        {
+          "ProfileName": "Muzammil A K M"
+        }
+      ],
+      "ProjectWorkStages": [],
+      "StageImages": {},
+      "FinalProductVideo": "",
+      "ChallengesFacedInBCDC": [],
+      "CategoryOfDesign": "EV Cargo Bike"
+    },
+    {
+      "TeamName": "Kathiravan M - Thiagarajar college of Engineering, Madurai",
+      "CollegeName": "Thiagarajar college of Engineering, Madurai",
+      "CollegeLocation": {
+        "Latitude": 12.9716,
+        "Longitude": 77.5946
+      },
+      "TeamMembers": [
+        {
+          "ProfileName": "Kathiravan M"
+        },
+        {
+          "ProfileName": "Mohammed Sohail Sheikh"
+        },
+        {
+          "ProfileName": "Mohammed Ismail A"
+        },
+        {
+          "ProfileName": "Anbarasan R"
+        },
+        {
+          "ProfileName": "Praveen V"
+        }
+      ],
+      "ProjectWorkStages": [],
+      "StageImages": {},
+      "FinalProductVideo": "",
+      "ChallengesFacedInBCDC": [],
+      "CategoryOfDesign": "EV Commute Bike"
+    },
+    {
+      "TeamName": "Kedar Adhatrao",
+      "CollegeName": "Walchand Institute of Technology, Solapur",
+      "CollegeLocation": {
+        "Latitude": 12.9716,
+        "Longitude": 77.5946
+      },
+      "TeamMembers": [
+        {
+          "ProfileName": "Kedar"
+        },
+        {
+          "ProfileName": "Fardeen"
+        },
+        {
+          "ProfileName": "Anud"
+        },
+        {
+          "ProfileName": "Akshay"
+        },
+        {
+          "ProfileName": "Karan"
+        }
+      ],
+      "ProjectWorkStages": [],
+      "StageImages": {},
+      "FinalProductVideo": "",
+      "ChallengesFacedInBCDC": [],
+      "CategoryOfDesign": "EV Commute Bike"
+    },
+    {
+      "TeamName": "Aarya Bhatia, Shrey Patel",
+      "CollegeName": "Nmims Mukesh Patel school of technology, management and engineering, Mumbai",
+      "CollegeLocation": {
+        "Latitude": 12.9716,
+        "Longitude": 77.5946
+      },
+      "TeamMembers": [
+        {
+          "ProfileName": "Aarya Bhatia"
+        },
+        {
+          "ProfileName": "Shrey Patel"
+        }
+      ],
+      "ProjectWorkStages": [],
+      "StageImages": {},
+      "FinalProductVideo": "",
+      "ChallengesFacedInBCDC": [],
+      "CategoryOfDesign": "Commute Bike"
+    },
+    {
+      "TeamName": "DHANUSH KUMAR S B",
+      "CollegeName": "St. Joseph's College of Engineering",
+      "CollegeLocation": {
+        "Latitude": 12.9716,
+        "Longitude": 77.5946
+      },
+      "TeamMembers": [
+        {
+          "ProfileName": "DHANUSH KUMAR S B"
+        },
+        {
+          "ProfileName": "DINESH J T"
+        },
+        {
+          "ProfileName": "ANBARASAN M"
+        },
+        {
+          "ProfileName": "BALUCHANDER P"
+        },
+        {
+          "ProfileName": "BALAJI S"
+        }
+      ],
+      "ProjectWorkStages": [],
+      "StageImages": {},
+      "FinalProductVideo": "",
+      "ChallengesFacedInBCDC": [],
+      "CategoryOfDesign": "Commute Bike"
+    },
+    {
+      "TeamName": "GUNALAN P A",
+      "CollegeName": "KONGU ENGINEERING COLLEGE",
+      "CollegeLocation": {
+        "Latitude": 12.9716,
+        "Longitude": 77.5946
+      },
+      "TeamMembers": [
+        {
+          "ProfileName": "ASHWIN JINU B S"
+        },
+        {
+          "ProfileName": "NAVAMANI SAKTHI R"
+        },
+        {
+          "ProfileName": "JEKASHON W E"
+        }
+      ],
+      "ProjectWorkStages": [],
+      "StageImages": {},
+      "FinalProductVideo": "",
+      "ChallengesFacedInBCDC": [],
+      "CategoryOfDesign": "Cargo Bike"
+    },
+    {
+      "TeamName": "Kedar Mukesh Adhatrao",
+      "CollegeName": "Walchand Institute of Technology, Solapur",
+      "CollegeLocation": {
+        "Latitude": 12.9716,
+        "Longitude": 77.5946
+      },
+      "TeamMembers": [
+        {
+          "ProfileName": "Kedar"
+        },
+        {
+          "ProfileName": "Anud"
+        },
+        {
+          "ProfileName": "Fardin"
+        },
+        {
+          "ProfileName": "Akshay"
+        },
+        {
+          "ProfileName": "Karan"
+        }
+      ],
+      "ProjectWorkStages": [],
+      "StageImages": {},
+      "FinalProductVideo": "",
+      "ChallengesFacedInBCDC": [],
+      "CategoryOfDesign": "EV Commute Bike"
+    },
+    {
+      "TeamName": "Vivek",
+      "CollegeName": "J C Bose University of Science and Technology, (YMCA), Faridabad, Haryana",
+      "CollegeLocation": {
+        "Latitude": 12.9716,
+        "Longitude": 77.5946
+      },
+      "TeamMembers": [
+        {
+          "ProfileName": "Kshitij"
+        },
+        {
+          "ProfileName": "Indroneel Sarkar"
+        },
+        {
+          "ProfileName": "Abhinav"
+        }
+      ],
+      "ProjectWorkStages": [],
+      "StageImages": {},
+      "FinalProductVideo": "",
+      "ChallengesFacedInBCDC": [],
+      "CategoryOfDesign": "Cargo Bike"
+    },
+    {
+      "TeamName": "AKHIL KUMAR S T",
+      "CollegeName": "KIT-KALAIGNAR KARUNANIDHI INSTITUTE OF TECHNOLOGY",
+      "CollegeLocation": {
+        "Latitude": 12.9716,
+        "Longitude": 77.5946
+      },
+      "TeamMembers": [
+        {
+          "ProfileName": "AKHIL KUMAR S T"
+        },
+        {
+          "ProfileName": "SUMEET KUMAR"
+        },
+        {
+          "ProfileName": "ABINESH T"
+        },
+        {
+          "ProfileName": "KANISHKAA P T"
+        },
+        {
+          "ProfileName": "RAJ M"
+        }
+      ],
+      "ProjectWorkStages": [],
+      "StageImages": {},
+      "FinalProductVideo": "",
+      "ChallengesFacedInBCDC": [],
+      "CategoryOfDesign": "EV Commute Bike"
+    }
+  ]
+}
